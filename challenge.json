@@ -1,0 +1,13 @@
+{
+  "challenge_status": "no_material_objection",
+  "published_at": 1788849600,
+  "publisher_id": "challenge",
+  "publisher_key_id": "challenge-key-v1",
+  "record_id": "challenge-api-reliability-001",
+  "signature": "fixture-signature-challenge-v1",
+  "signed_payload_hash": "a217ca28e9ee644b4ca9c544c3d04abfefaa7dae19c4e2dd038fef41e540f0cd",
+  "source_group": "challenge-records",
+  "valid_until": 1789022400,
+  "version": 1,
+  "review_note": "No independently observed fact in this challenge record contradicts the delivery or verification records."
+}
