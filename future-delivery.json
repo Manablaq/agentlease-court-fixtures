@@ -5,13 +5,13 @@
     "The delivery is complete and available for independent verification."
   ],
   "delivery_status": "complete",
-  "published_at": 1788854400,
-  "publisher_id": "delivery-rejected",
-  "publisher_key_id": "provider-key-rejected-v1",
-  "record_id": "delivery-rejected-path-001",
-  "signature": "fixture-signature-delivery-short-v1-future",
-  "signed_payload_hash": "c8ba091faf5d86911040fa7968825fff63f95cfa7d573b642d185b1dd465a4a6",
-  "source_group": "provider-records-rejected",
-  "valid_until": 1788854700,
+  "published_at": 1788854700,
+  "publisher_id": "delivery-rejected-2",
+  "publisher_key_id": "provider-key-rejected-v2",
+  "record_id": "delivery-rejected-path-002",
+  "signature": "fixture-signature-delivery-short-v2-future",
+  "signed_payload_hash": "122c67a41d46e91140d0a9c4ed03192f7b835df65cbc61ed8856d0eb7195afba",
+  "source_group": "provider-records-rejected-2",
+  "valid_until": 1788855300,
   "version": 1
 }
