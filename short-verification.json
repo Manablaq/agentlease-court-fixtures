@@ -1,0 +1,17 @@
+{
+  "published_at": 1788852000,
+  "publisher_id": "verification-short",
+  "publisher_key_id": "verification-key-short-v1",
+  "record_id": "verification-api-reliability-short-001",
+  "signature": "fixture-signature-verification-short-v1",
+  "signed_payload_hash": "3e728e3ef2dcf47867beb5ae16986a2df57e9420dcf637003d7e1f90307ee0a2",
+  "source_group": "verification-records-short",
+  "valid_until": 1788854100,
+  "verification_status": "corroborated",
+  "verified_facts": [
+    "The delivery record is available at the provider-authorized location.",
+    "The audit report is complete under the registered acceptance criteria.",
+    "The independent verification agrees that the required work was delivered."
+  ],
+  "version": 1
+}

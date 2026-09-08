@@ -1,0 +1,13 @@
+{
+  "challenge_status": "no_material_objection",
+  "published_at": 1788852000,
+  "publisher_id": "challenge-short",
+  "publisher_key_id": "challenge-key-short-v1",
+  "record_id": "challenge-api-reliability-short-001",
+  "signature": "fixture-signature-challenge-short-v1",
+  "signed_payload_hash": "29313377553ba7cf298cf75e5ef21712a733d78e71381f8aa31d217d244efc87",
+  "source_group": "challenge-records-short",
+  "valid_until": 1788854100,
+  "version": 1,
+  "review_note": "No independently observed fact in this challenge record contradicts the delivery or verification records."
+}
