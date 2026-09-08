@@ -1,11 +1,11 @@
 {
   "published_at": 1788854400,
-  "publisher_id": "verification-short",
-  "publisher_key_id": "verification-key-short-v1",
+  "publisher_id": "verification-rejected",
+  "publisher_key_id": "verification-key-rejected-v1",
   "record_id": "verification-rejected-path-001",
   "signature": "fixture-signature-verification-short-v1-future",
-  "signed_payload_hash": "f9b44a028c2d083e87f46c7546c4dde497beb0c03114a0cf4900e8449d371c2e",
-  "source_group": "verification-records-short",
+  "signed_payload_hash": "ac0b3a47795b2391ab6557c73a7ee9cb52ebf4cb934723e0d804a889d4921fd0",
+  "source_group": "verification-records-rejected",
   "valid_until": 1788854700,
   "verification_status": "corroborated",
   "verified_facts": [

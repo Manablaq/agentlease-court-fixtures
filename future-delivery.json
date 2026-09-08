@@ -6,12 +6,12 @@
   ],
   "delivery_status": "complete",
   "published_at": 1788854400,
-  "publisher_id": "delivery-short",
-  "publisher_key_id": "provider-key-short-v1",
+  "publisher_id": "delivery-rejected",
+  "publisher_key_id": "provider-key-rejected-v1",
   "record_id": "delivery-rejected-path-001",
   "signature": "fixture-signature-delivery-short-v1-future",
-  "signed_payload_hash": "2e143f2d84560e7fdc3be6519b96d16efc1606ddc5af6d0bab8ad48b06e84847",
-  "source_group": "provider-records-short",
+  "signed_payload_hash": "c8ba091faf5d86911040fa7968825fff63f95cfa7d573b642d185b1dd465a4a6",
+  "source_group": "provider-records-rejected",
   "valid_until": 1788854700,
   "version": 1
 }
