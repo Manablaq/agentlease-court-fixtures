@@ -1,0 +1,16 @@
+{
+  "published_at": 1789135449,
+  "publisher_id": "verification-refund2-0911",
+  "publisher_key_id": "verification-key-refund2-0911",
+  "record_id": "verification-api-reliability-refund2-0911",
+  "signature": "fixture-signature-verification-refund2-0911",
+  "signed_payload_hash": "a1c044a704d310230bf3745610f4e7344cddbb8ce972f931994983443cb1278c",
+  "source_group": "verification-refund-records2-0911",
+  "valid_until": 1789136379,
+  "verification_status": "not_corroborated",
+  "verified_facts": [
+    "The provider-authorized location does not contain the requested completed audit.",
+    "The independent verification found the delivery incomplete."
+  ],
+  "version": 1
+}
