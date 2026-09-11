@@ -1,0 +1,16 @@
+{
+  "challenge_facts": [
+    "The challenger requests a second review of the delivery evidence.",
+    "The challenge does not establish that the completed audit is missing."
+  ],
+  "challenge_status": "review_requested",
+  "published_at": 1789135779,
+  "publisher_id": "challenge-live3-0911",
+  "publisher_key_id": "challenge-key-live3-0911",
+  "record_id": "challenge-api-reliability-live3-0911",
+  "signature": "fixture-signature-challenge-live3-0911",
+  "signed_payload_hash": "dc7de81e85df915fff060a9e5516c581fc2836448efe7e249653905a99f15a23",
+  "source_group": "challenge-records-live3-0911",
+  "valid_until": 1789137009,
+  "version": 1
+}

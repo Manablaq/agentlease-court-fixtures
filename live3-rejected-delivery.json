@@ -1,0 +1,16 @@
+{
+  "acceptance_facts": [
+    "The provider did not publish the requested API reliability audit report.",
+    "The delivery is incomplete and missing the required reliability findings."
+  ],
+  "delivery_status": "incomplete",
+  "published_at": 1789135779,
+  "publisher_id": "delivery-refund3-0911",
+  "publisher_key_id": "provider-key-refund3-0911",
+  "record_id": "delivery-api-reliability-refund3-0911",
+  "signature": "fixture-signature-delivery-refund3-0911",
+  "signed_payload_hash": "b77e5c48376d6e0cbe85dc537336d1ac1243538ae1cf99b09a97f4732e87934b",
+  "source_group": "provider-refund-records3-0911",
+  "valid_until": 1789137009,
+  "version": 1
+}
