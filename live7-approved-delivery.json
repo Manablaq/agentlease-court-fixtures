@@ -10,7 +10,7 @@
   "publisher_key_id": "provider-key-live7-0911",
   "record_id": "delivery-api-reliability-live7-0911",
   "signature": "fixture-signature-delivery-live7-0911",
-  "signed_payload_hash": "4d1817da71edb0f22ed6505e667ea18b6e64b49d8412be98547c5a42efea1a9c",
+  "signed_payload_hash": "6215d6cd14be4c67840116a8aa1683546cb9b9e274f5578a6639a2e765d89b64",
   "source_group": "provider-records-live7-0911",
   "valid_until": 1789140776,
   "version": 1

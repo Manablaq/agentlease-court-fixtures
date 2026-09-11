@@ -4,7 +4,7 @@
   "publisher_key_id": "verification-key-live7-0911",
   "record_id": "verification-api-reliability-live7-0911",
   "signature": "fixture-signature-verification-live7-0911",
-  "signed_payload_hash": "cb0caf5c3731b8e920dc92910e33ad527e357db690a6755b47f4a536941e3897",
+  "signed_payload_hash": "c0c420385d0121d768bf2cfc6f927c391530227b242a2dd7378192f05616387e",
   "source_group": "verification-records-live7-0911",
   "valid_until": 1789140776,
   "verification_status": "corroborated",
