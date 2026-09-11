@@ -1,0 +1,17 @@
+{
+  "acceptance_facts": [
+    "The provider published the requested API reliability audit report.",
+    "The report contains the requested reliability findings and remediation notes.",
+    "The delivery is complete and available for independent verification."
+  ],
+  "delivery_status": "complete",
+  "published_at": 1789136921,
+  "publisher_id": "delivery-live4-0911",
+  "publisher_key_id": "provider-key-live4-0911",
+  "record_id": "delivery-api-reliability-live4-0911",
+  "signature": "fixture-signature-delivery-live4-0911",
+  "signed_payload_hash": "4d1817da71edb0f22ed6505e667ea18b6e64b49d8412be98547c5a42efea1a9c",
+  "source_group": "provider-records-live4-0911",
+  "valid_until": 1789144151,
+  "version": 1
+}
