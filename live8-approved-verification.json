@@ -1,0 +1,17 @@
+{
+  "published_at": 1789140355,
+  "publisher_id": "verification-live8-0911",
+  "publisher_key_id": "verification-key-live8-0911",
+  "record_id": "verification-api-reliability-live8-0911",
+  "signature": "fixture-signature-verification-live8-0911",
+  "signed_payload_hash": "1b2df7596f079d6022288c072c97092d8db6727aa294fe50ff648d3594ae8ded",
+  "source_group": "verification-records-live8-0911",
+  "valid_until": 1789141105,
+  "verification_status": "corroborated",
+  "verified_facts": [
+    "The delivery record is available at the provider-authorized location.",
+    "The audit report is complete under the registered acceptance criteria.",
+    "The independent verification agrees that the required work was delivered."
+  ],
+  "version": 1
+}
